@@ -17,6 +17,8 @@ Clicar em "ADD TO CART"
 
 Resultado Esperado:
 O produto deve ser adicionado ao carrinho com a quantidade correta e exibido no resumo do carrinho
+Severidade: 🔴 Crítica
+Status do teste: Pass
 
 <img width="1300" height="336" alt="image" src="https://github.com/user-attachments/assets/b40485a8-cdcb-4fe7-b4ec-6107e9da300c" />
 
@@ -34,6 +36,8 @@ Clicar no botão "Remove" do produto
 
 Resultado Esperado:
 O produto deve ser removido e o carrinho atualizado corretamente
+Severidade: 🟠 Alta
+Status do teste: Pass
 
 <img width="580" height="148" alt="image" src="https://github.com/user-attachments/assets/c0830cf5-cea2-45f9-9f7e-b11a0bfb03f8" /> <img width="165" height="93" alt="image" src="https://github.com/user-attachments/assets/6527a277-a77a-4309-8d86-38652cd5316d" />
 
@@ -53,6 +57,8 @@ Confirmar pedido
 
 Resultado Esperado:
 Pedido deve ser finalizado com sucesso e mensagem de confirmação exibida
+Severidade: 🔴 Crítica
+Status do teste: Pass
 
 
 
@@ -70,6 +76,9 @@ Clicar em "Apply"
 
 Resultado Esperado:
 Sistema deve exibir mensagem de erro informando que o cupom é inválido
+Severidade: 🟡 Média
+Status do teste: Pass
+
 <img width="441" height="319" alt="image" src="https://github.com/user-attachments/assets/1aeeea99-1643-4cf2-b56a-062ebcdfb15f" />
 
 
@@ -86,6 +95,8 @@ Pressionar Enter
 
 Resultado Esperado:
 Sistema deve exibir mensagem como "No results found for(nome do item)"
+Severidade: 🟢 Baixa 
+Status do teste: Pass
 
 <img width="303" height="188" alt="image" src="https://github.com/user-attachments/assets/c92e6e97-7e33-4587-9e84-ede6f9834019" />
 
